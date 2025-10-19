@@ -2,7 +2,7 @@
 title: "모바일 청첩장 개발기"
 datePublished: Sun Oct 19 2025 14:21:02 GMT+0000 (Coordinated Universal Time)
 cuid: cmgxso1pl000102jo43hk3ulo
-slug: 66qo67cu7j28ioyyreyyqeyepsdqsjzrsjzqula
+slug: wedding-card
 tags: 6rcc67cc, 66qo67cu7j287lkt7lkp7j6l
 
 ---
