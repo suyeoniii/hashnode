@@ -1,6 +1,7 @@
 ---
 title: "Claude Code 기본 사용법"
 slug: claude-code
+tags: claude-code, claude
 
 ---
 
