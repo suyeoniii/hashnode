@@ -2,7 +2,7 @@
 title: "[사이드 프로젝트] 커피 앱 (1) - 기획"
 datePublished: Sun Nov 09 2025 13:36:32 GMT+0000 (Coordinated Universal Time)
 cuid: cmhrrbpga000702l0a5ad63z1
-slug: 1
+slug: coffee-app-1
 tags: 7iks7j2065oc7zse66gc7kcd7yq4, 7luk7zs8ia, 7zse66gc7kcd7yq4ia
 
 ---
